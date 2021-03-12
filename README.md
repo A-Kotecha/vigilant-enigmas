@@ -12,6 +12,9 @@
 4.Set Correct Cd
 
  `cd ~/GNC/src/gdp/scripts   `
+ or
+`cd AVDC_project_A/GNC/src/gdp/scripts `
+ 
  
 5. Run Python file 
 
