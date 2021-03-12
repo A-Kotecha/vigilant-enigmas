@@ -10,7 +10,9 @@
 ` roslaunch iq_sim apm.launch --screen `
 
 4.Set Correct Cd
+
  `cd ~/GNC/src/gdp/scripts   `
  
 5. Run Python file 
+
 ` python GNC_node_with_redundancy.py `
