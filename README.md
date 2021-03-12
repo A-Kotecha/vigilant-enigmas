@@ -4,6 +4,7 @@
 ` roslaunch iq_sim runway.launch --screen `
 
 2. Launch ArduCopter  
+3. include if at comp lab ` cd AVDC_project_A/`
 ` ~/startsitl.sh `
 
 3. Launch mavros  
@@ -12,7 +13,7 @@
 4.Set Correct Cd
 
  `cd ~/GNC/src/gdp/scripts   `
- or
+ or if at Comp Lab
 `cd AVDC_project_A/GNC/src/gdp/scripts `
  
  
