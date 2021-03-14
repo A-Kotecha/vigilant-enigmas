@@ -4,8 +4,9 @@
 ` roslaunch iq_sim runway.launch --screen `
 
 2. Launch ArduCopter  
-3. include if at comp lab ` cd AVDC_project_A/`
 ` ~/startsitl.sh `
+include if at comp lab
+ ` cd AVDC_project_A/`
 
 3. Launch mavros  
 ` roslaunch iq_sim apm.launch --screen `
