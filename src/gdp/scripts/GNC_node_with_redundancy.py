@@ -306,10 +306,10 @@ class UAV():
 
 		#Message?
         	
-		#if not in AUTO.MISSION, set it into this mode
+		#if not in AUTO, set it into this mode
 		if self.state[3] != 'AUTO':
 			self.setFlightMode(mode = 'AUTO')
-			print("Sir, a jelly doughnut")
+			print("Should be AUTO now")
 
 		while waypointFlag == False: #Is True when the WP is reached
 			#print("This is the waypoint %s" %waypointFlag)
