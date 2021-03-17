@@ -21,3 +21,6 @@ include if at comp lab
 5. Run Python file 
 
 ` python GNC_node_with_redundancy.py `
+or
+` python GNC_node_with_redundancy_Auto.py `
+
