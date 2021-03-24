@@ -453,7 +453,7 @@ def GNC_Node_Action():
 
 	rate.sleep() #uncommented
 
-	#waypoints = [[10, 5, 15], [10, -5, 15], [-10, -5, 10], [-10, 5, 10]]
+	waypoints = [[10, 5, 15], [10, -5, 15], [-10, -5, 10], [-10, 5, 10]]
 	waypoints = []
 	t = np.arange(20)
 	for k in t:
