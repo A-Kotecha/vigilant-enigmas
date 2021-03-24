@@ -468,7 +468,7 @@ def GNC_Node_Action():
 
 	print("Landing")
 
-	#uav.land()
+	uav.land()
 
 	rate.sleep()
 
